@@ -17,13 +17,18 @@ function tapButton() {
     const light = document.getElementById('light');
     const button = document.getElementById('bigButton');
 
+
+    // Randomize the speed of the arm movement
+    const randomSpeed = Math.random() * 1 + 0.1; // Random value between 0.5s and 1.5s
+    arm.style.transitionDuration = `${randomSpeed}s`;
+
     // Move the arm down to tap the button
-    arm.style.top = '50px';
+    arm.style.top = '-75px';
 
     // After the arm reaches the button, toggle the light and move the arm back up
     setTimeout(() => {
         light.style.backgroundColor = '#ccc'; // Turn off the light
-        arm.style.top = '-150px'; // Move the arm back up
+        arm.style.top = '-200px'; // Move the arm back up
         button.disabled = false; // Enable the button again
-    }, 1000);
+    }, randomSpeed * 1000); // Use the same random speed for the timeout
 }
