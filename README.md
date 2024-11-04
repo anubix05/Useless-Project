@@ -40,25 +40,21 @@ No installation required, just open `index.html` in a browser.
 For Software:
 
 #### Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](Useless-Project/Screenshots/Off State.png)
 *Shows the skeleton arm and pumpkin button.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](Useless-Project/Screenshots/Arm Switching Off State.png)
 *Displays bats and mute button.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](Useless-Project/Screenshots/State After Turning Off.png)
 *Illustrates button interaction and light toggle.*
-
-#### Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Diagram explaining the arm and button interaction logic.*
 
 For Hardware:
 N/A as this is a purely digital project.
 
 ### Project Demo
 #### Video
-[Add your demo video link here]
+[Useless-Project\Screenshots\Screen Record.mp4]
 *Walkthrough of the spooky button interaction and ambient sounds.*
 
 #### Additional Demos

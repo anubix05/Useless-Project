@@ -174,10 +174,6 @@ function tapButton() {
     }
 }
 
-// Set the volume of the background music
-const backgroundMusic = document.getElementById('backgroundMusic');
-backgroundMusic.volume = 0.4;
-
 // Mute/Unmute button functionality
 const muteButton = document.getElementById('muteButton');
 const muteIcon = document.getElementById('muteIcon');
