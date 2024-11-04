@@ -31,6 +31,7 @@ For Hardware:
 For Software:
 #### Installation
 No installation required, just open `index.html` in a browser.
+Or [click here](https://anubix05.github.io/Useless-Project/)
 
 #### Run
 1. Clone the project.
