@@ -40,21 +40,24 @@ No installation required, just open `index.html` in a browser.
 For Software:
 
 #### Screenshots
-![Screenshot1](    )
+![Off State](https://github.com/user-attachments/assets/3a890058-f216-49e6-b04f-f8740b690180)
 *Shows the pumpkin button.*
 
-![Screenshot2](    )
+
+![Arm Switching Off State](https://github.com/user-attachments/assets/5a7e4d4f-8540-4921-b3fc-e47141eafaf7)
 *Displays the arm in action.*
 
-![Screenshot3](    )
-*Displays the state after arm swithed off the pumpkin switch.*
+
+![State After Turning Off](https://github.com/user-attachments/assets/1451baed-e70a-456e-a760-2d132e8e8dd3)
+*Displays the state after the arm switches off the pumpkin switch.*
+
 
 For Hardware:
 N/A as this is a purely digital project.
 
 ### Project Demo
 #### Video
-[Useless-Project\Screenshots\Screen Record.mp4]
+[https://github.com/user-attachments/assets/933d442b-144f-4022-8286-e704d3900459]
 *Walkthrough of the spooky button interaction and ambient sounds.*
 
 #### Additional Demos
