@@ -186,3 +186,13 @@ muteButton.addEventListener('click', function() {
         muteIcon.src = 'mute.png'; // Change to unmute icon
     }
 });
+
+
+
+// Play the background music
+backgroundMusic = document.getElementById('backgroundMusic');
+
+setTimeout(() => {
+    backgroundMusic.play();
+}, 4000);
+
