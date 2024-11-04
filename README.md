@@ -1,95 +1,73 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
-
+# Useless Machine 🎯
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: Davy John's Locker
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Anubind C Biju - Muthoot Institute Of Technology And Science
 
 ### Project Description
-[2-3 lines about what your project does]
+This interactive web project features a spooky theme, where a skeleton arm taps a button to turn a light on and off while eerie music and bats animate around the screen.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Not enough spooky ambiance in web projects for Halloween season.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Create a web-based Halloween display that turns a switch on and off using a skeleton arm, adds spooky sounds, and random bat animations for a hauntingly interactive experience.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **Languages**: HTML, CSS, JavaScript
+- **Libraries**: None
+- **Tools**: VS Code
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- No physical hardware required; only digital assets.
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+#### Installation
+No installation required, just open `index.html` in a browser.
 
-# Run
-[commands]
+#### Run
+1. Clone the project.
+2. Open `index.html` in a browser to start the experience.
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+#### Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+*Shows the skeleton arm and pumpkin button.*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Displays bats and mute button.*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Illustrates button interaction and light toggle.*
 
-# Diagrams
+#### Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+*Diagram explaining the arm and button interaction logic.*
 
 For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+N/A as this is a purely digital project.
 
 ### Project Demo
-# Video
+#### Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+*Walkthrough of the spooky button interaction and ambient sounds.*
 
-# Additional Demos
-[Add any extra demo materials/links]
+#### Additional Demos
+N/A
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- **Jack Skellington**: HTML structure, CSS styling.
+- **Sally Scarecrow**: JavaScript for arm and button interaction.
+- **Igor Frankensteiner**: Sound integration and animation logic.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
