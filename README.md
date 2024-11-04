@@ -39,14 +39,14 @@ No installation required, just open `index.html` in a browser.
 ### Project Documentation
 For Software:
 
-#### Screenshots (Add at least 3)
-![Screenshot1]![Off State](https://github.com/user-attachments/assets/3a890058-f216-49e6-b04f-f8740b690180)
+#### Screenshots
+![Off State](https://github.com/user-attachments/assets/3a890058-f216-49e6-b04f-f8740b690180)
 *Shows the pumpkin button.*
 
-![Screenshot2]![Arm Switching Off State](https://github.com/user-attachments/assets/5a7e4d4f-8540-4921-b3fc-e47141eafaf7)
+![Arm Switching Off State](https://github.com/user-attachments/assets/5a7e4d4f-8540-4921-b3fc-e47141eafaf7)
 *Displays the arm in action.*
 
-![Screenshot3]![State After Turning Off](https://github.com/user-attachments/assets/1451baed-e70a-456e-a760-2d132e8e8dd3)
+![State After Turning Off](https://github.com/user-attachments/assets/1451baed-e70a-456e-a760-2d132e8e8dd3)
 *Displays the state after the arm switches off the pumpkin switch.*
 
 For Hardware:
