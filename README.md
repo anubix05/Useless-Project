@@ -65,9 +65,7 @@ N/A as this is a purely digital project.
 N/A
 
 ## Team Contributions
-- **Jack Skellington**: HTML structure, CSS styling.
-- **Sally Scarecrow**: JavaScript for arm and button interaction.
-- **Igor Frankensteiner**: Sound integration and animation logic.
+- **Anubind C Biju**: Entire project.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
