@@ -52,7 +52,7 @@ body, html {
 .arm {
     width: 100px; /* Adjust width to fit your image */
     height: 120px; /* Adjust height to fit your image */
-    background-image: url('skel_hand-removebg-preview.png'); /* Set your custom arm image path here */
+    background-image: url('skel_hand.png'); /* Set your custom arm image path here */
     background-size: cover;
     background-position: center;
     position: absolute;
