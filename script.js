@@ -194,5 +194,5 @@ backgroundMusic = document.getElementById('backgroundMusic');
 
 setTimeout(() => {
     backgroundMusic.play();
-}, 4000);
+}, 10000);
 
