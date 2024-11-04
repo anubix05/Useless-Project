@@ -60,8 +60,6 @@ N/A as this is a purely digital project.
 [https://github.com/user-attachments/assets/933d442b-144f-4022-8286-e704d3900459]
 *Walkthrough of the spooky button interaction and ambient sounds.*
 
-#### Additional Demos
-N/A
 
 ## Team Contributions
 - **Anubind C Biju**: Entire project.
