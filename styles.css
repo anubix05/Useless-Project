@@ -89,6 +89,7 @@ body, html {
     top: 70%;
     left: 35%;
     transform: rotate(-05deg);
+    z-index: 4; 
 }
 
 .mute-button {
