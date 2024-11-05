@@ -77,12 +77,14 @@ body, html {
     top: 15%;
     left: 20%;
     transform: rotate(-15deg);
+    z-index: 6;
 }
 
 .bat2 {
     top: 30%;
     left: 70%;
     transform: rotate(15deg);
+    z-index: 5;
 }
 
 .bat3 {
