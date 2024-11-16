@@ -58,8 +58,7 @@ N/A as this is a purely digital project.
 
 ### Project Demo
 #### Video
-[https://github.com/user-attachments/assets/933d442b-144f-4022-8286-e704d3900459]
-(Walkthrough of the spooky button interaction and ambient sounds.)
+[Walkthrough of the spooky button interaction and ambient sounds.](https://github.com/user-attachments/assets/933d442b-144f-4022-8286-e704d3900459)
 
 
 ## Team Contributions
