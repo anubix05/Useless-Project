@@ -3,6 +3,7 @@
 # Useless Machine 🎃☠️⚫
 
 ## Basic Details
+https://anubix05.github.io/Useless-Project/
 ### Team Name: Davy John's Locker
 
 ### Team Members
