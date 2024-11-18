@@ -3,15 +3,16 @@
 # Useless Machine 🎃☠️⚫
 
 ## Basic Details
-https://anubix05.github.io/Useless-Project/
-### Project Demo
-#### Video
-[Walkthrough of the spooky button interaction and ambient sounds.](https://github.com/user-attachments/assets/933d442b-144f-4022-8286-e704d3900459)
 
 ### Team Name: Davy John's Locker
 
 ### Team Members
 - Team Lead: Anubind C Biju - Muthoot Institute Of Technology And Science
+
+### Project Demo
+https://anubix05.github.io/Useless-Project/
+#### Video
+[Walkthrough of the spooky button interaction and ambient sounds.](https://github.com/user-attachments/assets/933d442b-144f-4022-8286-e704d3900459)
 
 ### Project Description
 This interactive web project features a spooky theme, where a skeleton arm taps a button to turn a light on and off while eerie music and bats animate around the screen.
