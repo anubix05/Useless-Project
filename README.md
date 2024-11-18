@@ -4,6 +4,10 @@
 
 ## Basic Details
 https://anubix05.github.io/Useless-Project/
+### Project Demo
+#### Video
+[Walkthrough of the spooky button interaction and ambient sounds.](https://github.com/user-attachments/assets/933d442b-144f-4022-8286-e704d3900459)
+
 ### Team Name: Davy John's Locker
 
 ### Team Members
@@ -57,9 +61,6 @@ For Software:
 For Hardware:
 N/A as this is a purely digital project.
 
-### Project Demo
-#### Video
-[Walkthrough of the spooky button interaction and ambient sounds.](https://github.com/user-attachments/assets/933d442b-144f-4022-8286-e704d3900459)
 
 
 ## Team Contributions
